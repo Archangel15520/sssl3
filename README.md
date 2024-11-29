@@ -84,10 +84,6 @@
 
 ![image](https://github.com/Archangel15520/sssl3/blob/main/screenshot/27.JPG)
 
-### 19 Осуществляем SQL-инъекцию:
-
-![image](https://github.com/Archangel15520/sssl3/blob/main/screenshot/28.JPG)
-
-### 20 Проверка отображения обнаружения атаки в истории логов на wazuh server:
+### 19 Проверка отображения обнаружения атаки в истории логов на wazuh server:
 
 ![image](https://github.com/Archangel15520/sssl3/blob/main/screenshot/21.JPG)
