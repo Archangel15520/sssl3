@@ -61,31 +61,33 @@
 ### ВАЖНО: При долгой попытке восстановить сервер, убрать ошибки и восстановить запуск, я, на этапе попытки выявить и устранить ошибки, решил рискнуть и запустить сервер вопреки нескольким всплывающим ошибкам в статусе сервера, из за чего у меня ни только не запустился сервер, но и полностью сломалась виртуальная машина. Она запускалась с фатальными ошибками и черным экраном. Непонятно как DdoS атака смогла такого добиться, но скорее я сам доломал своими решительными действиями. 
 
 ## 2 попытка установки и реализации аномалии в истории логов wazuh server
+Вторая попытка подключения wazuh agent к wazuh server.
+![image](https://github.com/Archangel15520/sssl3/blob/main/screenshot/22.JPG)
 
 ### 14 Создание проверки целостности файлов на wazuh server:
 
-![image]()
+![image](https://github.com/Archangel15520/sssl3/blob/main/screenshot/23.JPG)
 
 ### 15 Настройка выявления уязвимостей на wazuh server:
 
-![image]()
+![image](https://github.com/Archangel15520/sssl3/blob/main/screenshot/24.JPG)
 
 ### 16 Настройка выявления скрытых процессов на wazuh agent:
 
-![image]()
+![image](https://github.com/Archangel15520/sssl3/blob/main/screenshot/25.JPG)
 
-### 17 Настройка выявления SQL-инъекций на wazuh agent:
+### 17 Настройка выявления SQL-инъекций на wazuh server:
 
-![image]()
+![image](https://github.com/Archangel15520/sssl3/blob/main/screenshot/26.JPG)
 
 ### 18 Настройка выявления web shell attack на wazuh agent:
 
-![image]()
+![image](https://github.com/Archangel15520/sssl3/blob/main/screenshot/27.JPG)
 
 ### 19 Осуществляем SQL-инъекцию:
 
-![image]()
+![image](https://github.com/Archangel15520/sssl3/blob/main/screenshot/28.JPG)
 
 ### 20 Проверка отображения обнаружения атаки в истории логов на wazuh server:
 
-![image]()
+![image](https://github.com/Archangel15520/sssl3/blob/main/screenshot/21.JPG)
